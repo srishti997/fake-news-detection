@@ -42,8 +42,12 @@ ngram_range = (1, 2)
 stop_words = "english"
 
 4. Model Training
-Used Logistic Regression with:
-max_iter = 1000
+Trained using PassiveAggressiveClassifier(max_iter=1000)
+PAC works extremely well for:
+Fake news detection
+Real-time classification
+Short news headlines
+Online learning tasks
 
 5. Model Evaluation
 Evaluated the model using:
