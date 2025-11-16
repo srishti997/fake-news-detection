@@ -15,6 +15,13 @@ Both files were merged and labeled:
 0 → Fake
 1 → Real
 
+Due to GitHub’s file-size limit, the dataset files (Fake.csv, True.csv) are not uploaded here.
+
+You can download them from Kaggle:
+👉 Fake and Real News Dataset
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+
+
 **Project Workflow**
 1. Data Loading
 Loaded Fake.csv and True.csv using pandas.
